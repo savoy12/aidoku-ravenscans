@@ -1,0 +1,8 @@
+{
+  "name": "RavenScans Repository",
+  "id": "com.ravenscans.repo",
+  "version": 1,
+  "sources": [
+    "https://savoy12.github.io/aidoku-ravenscans/sources/en.ravenscans/source.json"
+  ]
+}
